@@ -1,2 +1,1 @@
-# Derive
-Vacation/business trip app
+# derive
